@@ -442,3 +442,13 @@ A number of electors of President and Vice President equal to the whole number o
 
 The Congress shall have power to enforce this article by appropriate legislation.
 
+# Amendment XXIV
+
+## Section 1
+
+The right of citizens of the United States to vote in any primary or other election for President or Vice President for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax.
+
+## Section 2
+
+The Congress shall have power to enforce this article by appropriate legislation.
+
