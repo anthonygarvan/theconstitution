@@ -430,3 +430,15 @@ No person shall be elected to the office of the President more than twice, and n
 
 This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress.
 
+# Amendment XXIII
+
+## Section 1
+
+The District constituting the seat of Government of the United States shall appoint in such manner as the Congress may direct:
+
+A number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.
+
+## Section 2
+
+The Congress shall have power to enforce this article by appropriate legislation.
+
