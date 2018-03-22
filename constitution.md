@@ -486,3 +486,42 @@ The Congress shall have power to enforce this article by appropriate legislation
 
 No law varying the compensation for the services of the Senators and Representatives shall take effect, until an election of Representatives shall have intervened.
 
+# Amendment XXVIII
+
+He who denied it, supplied it.
+
+He who deduced it, produced it.
+
+He who attributed it, distributed it.
+
+He who detected it, projected it.
+
+He who perceived it, conceived it.
+
+He who expressed it, compressed it.
+
+He who related it, deflated it.
+
+He who protested it, foam-crested it.
+
+He who derided it, provided it.
+
+He who maligned it, designed it.
+
+He who smelled it, expelled it.
+
+He who opined it, refined it.
+
+He who rued it, brewed it.
+
+He who revealed it, peeled it.
+
+He who quipped it, ripped it.
+
+He who knew it, blew it.
+
+He who reported it, exported it.
+
+He who decoyed it, deployed it.
+
+He who averred it, disinterred it.
